@@ -8,7 +8,7 @@ export default function App() {
     <View style={styles.container}>
       <Image source={PlaceholderImage} style={styles.Image} />
       <Text style={{ color: '#fff'}}>
-        Open up Sanja to start working on your app!</Text>
+        Open up Vova to start working on your app!</Text>
       <StatusBar style="auto" />
     </View>
   );
